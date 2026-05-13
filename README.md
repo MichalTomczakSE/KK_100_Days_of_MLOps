@@ -21,7 +21,7 @@ Browse to the day you're working on, read the README, and follow along. Each fol
 | [Day 2](days/day-02-jupyter-notebook-server/) | Set Up and Configure Jupyter Notebook Server | ✅ |
 | [Day 3](days/day-03-uv-lockfile/) | Fix a Broken uv Lockfile Specification | ✅ |
 | [Day 4](days/day-04-ml-project-structure/) | Create a Standard ML Project Structure | ✅ |
-| Day 5 | Create a Makefile for ML Workflow Automation | — |
+| [Day 5](days/day-05-makefile/) | Create a Makefile for ML Workflow Automation | ✅ |
 | Day 6 | Set Up Code Quality Tools for ML Code | — |
 | Day 7 | Package an ML Project as Installable Python Package | — |
 | Day 8 | Configure Pre-Commit Hooks for ML Repository | — |
