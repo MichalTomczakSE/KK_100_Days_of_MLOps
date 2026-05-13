@@ -71,3 +71,4 @@ jupyter lab --config=/root/code/jupyter_lab_config.py --allow-root --no-browser 
 | File | Purpose |
 |------|---------|
 | `jupyter_lab_config.py` | Corrected JupyterLab configuration |
+| `solution.sh` | All commands needed to complete the task |

@@ -83,3 +83,4 @@ This produces `requirements.txt` with the four top-level packages pinned with `=
 | File | Purpose |
 |------|---------|
 | `requirements.in` | Corrected high-level dependency specification |
+| `solution.sh` | All commands needed to complete the task |

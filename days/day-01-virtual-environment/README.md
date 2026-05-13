@@ -37,3 +37,11 @@ pip freeze > /root/code/requirements.txt
 | `source .../bin/activate` | Switches the shell to use the venv's Python and pip |
 | `pip freeze` | Lists all installed packages with exact pinned versions |
 | `requirements.txt` | Standard file for reproducing an environment with `pip install -r` |
+
+---
+
+## Files in this folder
+
+| File | Purpose |
+|------|---------|
+| `solution.sh` | All commands needed to complete the task |

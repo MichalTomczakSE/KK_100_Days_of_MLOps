@@ -99,3 +99,10 @@ mv fraud-detection/src/util/ fraud-detection/src/utils
 | `sed -i '1s/.*/<text>/'` | In-place replacement of the first line of a file |
 
 ---
+
+## Files in this folder
+
+| File | Purpose |
+|------|---------|
+| `requirements.txt` | Correct top-level dependency list |
+| `solution.sh` | All commands needed to complete the task |

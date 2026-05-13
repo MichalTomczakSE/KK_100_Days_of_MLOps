@@ -6,7 +6,10 @@ Each day's folder contains a `README.md` with the task description, a step-by-st
 
 ## How to use
 
-Browse to the day you're working on, read the README, and follow along. Code files in each folder are the actual solution artefacts — copy or adapt them as needed.
+Browse to the day you're working on, read the README, and follow along. Each folder contains:
+- `README.md` — task description, diagnosis of the starting state, and a step-by-step solution
+- `solution.sh` — all shell commands needed to complete the task, ready to run
+- Any additional config or code files produced by the solution
 
 ---
 
