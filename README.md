@@ -17,7 +17,7 @@ Browse to the day you're working on, read the README, and follow along. Code fil
 | [Day 1](days/day-01-virtual-environment/) | Create a Python Virtual Environment for ML | ✅ |
 | [Day 2](days/day-02-jupyter-notebook-server/) | Set Up and Configure Jupyter Notebook Server | ✅ |
 | [Day 3](days/day-03-uv-lockfile/) | Fix a Broken uv Lockfile Specification | ✅ |
-| Day 4 | Create a Standard ML Project Structure | — |
+| [Day 4](days/day-04-ml-project-structure/) | Create a Standard ML Project Structure | ✅ |
 | Day 5 | Create a Makefile for ML Workflow Automation | — |
 | Day 6 | Set Up Code Quality Tools for ML Code | — |
 | Day 7 | Package an ML Project as Installable Python Package | — |
