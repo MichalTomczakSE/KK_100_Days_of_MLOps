@@ -23,7 +23,7 @@ Browse to the day you're working on, read the README, and follow along. Each fol
 | [Day 4](days/day-04-ml-project-structure/) | Create a Standard ML Project Structure | ✅ |
 | [Day 5](days/day-05-makefile/) | Create a Makefile for ML Workflow Automation | ✅ |
 | [Day 6](days/day-06-code-quality/) | Set Up Code Quality Tools for ML Code | ✅ |
-| Day 7 | Package an ML Project as Installable Python Package | — |
+| [Day 7](days/day-07-python-package/) | Package an ML Project as Installable Python Package | ✅ |
 | Day 8 | Configure Pre-Commit Hooks for ML Repository | — |
 | Day 9 | Create a Custom ML Project Template with Cookiecutter | — |
 | Day 10 | Install and Initialize DVC in an ML Project | — |
