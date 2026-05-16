@@ -31,7 +31,7 @@ Browse to the day you're working on, read the README, and follow along. Each fol
 | [Day 12](days/day-12-dvc-remote-storage/) | Configure a DVC Remote Storage | ✅ |
 | [Day 13](days/day-13-dvc-pull/) | Pull DVC-Tracked Data from Remote | ✅ |
 | [Day 14](days/day-14-dvc-pipeline/) | Create a DVC Pipeline for Data Processing | ✅ |
-| Day 15 | Parameterize a DVC Pipeline | — |
+| [Day 15](days/day-15-dvc-params/) | Parameterize a DVC Pipeline | ✅ |
 | Day 16 | Track ML Metrics with DVC | — |
 | Day 17 | Run and Compare DVC Experiments | — |
 | Day 18 | Version Datasets and Models Across Git Branches | — |
