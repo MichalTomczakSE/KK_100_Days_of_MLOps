@@ -26,7 +26,7 @@ Browse to the day you're working on, read the README, and follow along. Each fol
 | [Day 7](days/day-07-python-package/) | Package an ML Project as Installable Python Package | ✅ |
 | [Day 8](days/day-08-pre-commit-hooks/) | Configure Pre-Commit Hooks for ML Repository | ✅ |
 | [Day 9](days/day-09-cookiecutter/) | Create a Custom ML Project Template with Cookiecutter | ✅ |
-| Day 10 | Install and Initialize DVC in an ML Project | — |
+| [Day 10](days/day-10-dvc-init/) | Install and Initialize DVC in an ML Project | ✅ |
 | Day 11 | Track a Dataset with DVC | — |
 | Day 12 | Configure a DVC Remote Storage | — |
 | Day 13 | Pull DVC-Tracked Data from Remote | — |
