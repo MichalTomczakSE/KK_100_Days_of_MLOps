@@ -33,7 +33,7 @@ Browse to the day you're working on, read the README, and follow along. Each fol
 | [Day 14](days/day-14-dvc-pipeline/) | Create a DVC Pipeline for Data Processing | ✅ |
 | [Day 15](days/day-15-dvc-params/) | Parameterize a DVC Pipeline | ✅ |
 | [Day 16](days/day-16-dvc-metrics/) | Track ML Metrics with DVC | ✅ |
-| Day 17 | Run and Compare DVC Experiments | — |
+| [Day 17](days/day-17-dvc-experiments/) | Run and Compare DVC Experiments | ✅ |
 | Day 18 | Version Datasets and Models Across Git Branches | — |
 | Day 19 | Build Complete DVC ML Pipeline with Remote Storage and Experiments | — |
 | Day 20 | Install and Start the MLflow Tracking Server | — |
